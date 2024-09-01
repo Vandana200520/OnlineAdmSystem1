@@ -1,5 +1,5 @@
 let currentSection = 1;
-const totalSections = 8; // Updated to 8 sections
+const totalSections = 8; 
 
 // Initialize the form and set up event listeners for all sections
 function initializeForm() {
