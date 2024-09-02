@@ -22,6 +22,11 @@ h1 {
     color: #333;
 }
 
+.required {
+    color: red;
+    font-weight: bold;
+}
+
 .form-section {
     display: none;
     position: relative;
